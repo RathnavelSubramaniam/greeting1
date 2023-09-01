@@ -1,3 +1,3 @@
 function hello() {
-  return "Hello World! S Ranjitha Kumari ";
+  return "Hello World!  ";
 }
